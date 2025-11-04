@@ -1,4 +1,4 @@
-# 攏災影｜災情回報系統 Disaster Report System (Gradio + Folium)
+# 攏災影｜災情回報系統雛形 Disaster Report System (Gradio + Folium)
 
 一個結合 **Gradio + Folium** 製作的互動式災情回報原型系統。  
 使用者可即時上報災情照片與資訊，於地圖上顯示叢集標記與熱度圖，並查看附近災情、留言與按讚互動。  
